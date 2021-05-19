@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### This is Gedan Magalhães!
+### I'm Gedan Magalhães!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GedanMagal)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gedan-ycar-magalh%C3%A3es-468542145/)
